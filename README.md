@@ -1,3 +1,4 @@
+Minimally renders an [image editor](https://github.com/nhn/toast-ui.react-image-editor).
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
